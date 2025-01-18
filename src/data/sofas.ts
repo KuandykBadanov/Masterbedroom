@@ -8,9 +8,9 @@ export const sofas: Product[] = [
     price: 125000,
     category: "sofas",
     images: [
-      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc",
-      "https://images.unsplash.com/photo-1550254478-ead40cc54513",
-      "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e"
+      "/images/lola1.jpg",
+      "/images/lola2.jpg",
+      "/images/lola3.jpg"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
