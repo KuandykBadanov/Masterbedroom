@@ -57,7 +57,7 @@ export function ProductCard({ product }: ProductCardProps) {
         <h3 className="text-lg font-semibold">{product.name}</h3>
         <p className="text-gray-600 mt-1">{product.description}</p>
         <div className="mt-4 flex justify-between items-center">
-          <span className="text-xl font-bold">{product.price.toLocaleString()} ₽</span>
+        <span className="text-xl font-bold">{product.price.toLocaleString('kk-KZ')} ₸</span>
           <div className="flex gap-2">
             <a
               href="tel:+77474490627"

@@ -3,8 +3,8 @@ import { Product } from '../types';
 export const sofas: Product[] = [
   {
     id: 31,
-    name: "Диван Modern Comfort",
-    description: "Модульный диван с регулируемыми подголовниками",
+    name: "Диван Lola",
+    description: "Элегантные формы и мягкие материалы идеально дополнят ваш интерьер",
     price: 125000,
     category: "sofas",
     images: [
