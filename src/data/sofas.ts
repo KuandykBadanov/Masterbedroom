@@ -8,9 +8,9 @@ export const sofas: Product[] = [
     price: 125000,
     category: "sofas",
     images: [
-      "./images/lola1.jpg",
-      "./images/lola2.jpg",
-      "./images/lola3.jpg"
+      "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-lola-lilla-0c34a-tagasiside_reference.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-co-lola-lilla-21c61_reference.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-co-lola-lilla-4e03a-hind_reference.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
