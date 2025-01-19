@@ -18,9 +18,9 @@ export function ProductCard({ product }: ProductCardProps) {
   };
 
   const createWhatsAppMessage = () => {
-    const message = `Здравствуйте! Интересует товар: ${product.name}\nЦена: ${product.price.toLocaleString()} ₽\n${product.description}\nФото товара: ${product.images[0]}`;
+    const message = `Здравствуйте! Интересует товар: ${product.name}\nЦена: ${product.price.toLocaleString('kk-KZ')} ₸\n${product.description}\nФото товара: ${product.images[0]}`;
     return `https://wa.me/+77474490627?text=${encodeURIComponent(message)}`;
-  };
+  };  
 
   return (
     <div className="bg-white rounded-lg shadow-lg overflow-hidden">
