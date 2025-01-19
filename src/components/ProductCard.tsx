@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, Phone, Instagram, MessageCircle } from 'lucide-react';
 import { Product } from '../types';
+  // импортируем новую иконку
+
 
 interface ProductCardProps {
   product: Product;
@@ -75,28 +77,65 @@ export function ProductCard({ product }: ProductCardProps) {
   </a>
 
   <a
-    href="https://instagram.com/masterbedroom_kz"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="w-8 h-8 rounded-full flex items-center justify-center hover:opacity-80 transition-opacity"
-    title="Instagram"
+  href="https://instagram.com/masterbedroom_kz"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="w-8 h-8 rounded-full flex items-center justify-center hover:bg-pink-600 transition-colors"
+>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    x="0px"
+    y="0px"
+    width="48"
+    height="48"
+    viewBox="0 0 48 48"
+    className="w-6 h-6"
   >
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 24 24"
-      fill="url(#instagram-gradient)" /* Градиент Instagram */
-      className="w-6 h-6"
+    <radialGradient
+      id="yOrnnhliCrdS2gy~4tD8ma_Xy10Jcu1L2Su_gr1"
+      cx="19.38"
+      cy="42.035"
+      r="44.899"
+      gradientUnits="userSpaceOnUse"
     >
-      <defs>
-        <linearGradient id="instagram-gradient" x1="0" x2="1" y1="0" y2="1">
-          <stop offset="0%" stopColor="#f58529" />
-          <stop offset="50%" stopColor="#dd2a7b" />
-          <stop offset="100%" stopColor="#8134af" />
-        </linearGradient>
-      </defs>
-      <path d="M12 2.16c3.2 0 3.584.012 4.85.07 1.18.054 1.97.243 2.425.41.61.22 1.045.483 1.505.943.46.46.723.895.943 1.505.167.455.356 1.246.41 2.425.058 1.266.07 1.65.07 4.85s-.012 3.584-.07 4.85c-.054 1.18-.243 1.97-.41 2.425a3.653 3.653 0 01-.943 1.505 3.653 3.653 0 01-1.505.943c-.455.167-1.246.356-2.425.41-1.266.058-1.65.07-4.85.07s-3.584-.012-4.85-.07c-1.18-.054-1.97-.243-2.425-.41a3.653 3.653 0 01-1.505-.943 3.653 3.653 0 01-.943-1.505c-.167-.455-.356-1.246-.41-2.425-.058-1.266-.07-1.65-.07-4.85s.012-3.584.07-4.85c.054-1.18.243-1.97.41-2.425a3.653 3.653 0 01.943-1.505A3.653 3.653 0 014.725 2.64c.455-.167 1.246-.356 2.425-.41C8.416 2.172 8.8 2.16 12 2.16zM12 0C8.736 0 8.332.013 7.05.07 5.766.127 4.75.31 3.922.61c-.85.315-1.564.742-2.276 1.454A5.464 5.464 0 00.61 4.922c-.3.828-.483 1.844-.54 3.128C.013 9.336 0 9.74 0 12s.013 2.664.07 3.95c.057 1.284.24 2.3.54 3.128.315.85.742 1.564 1.454 2.276a5.464 5.464 0 001.454 1.454c.828.3 1.844.483 3.128.54C8.332 23.987 8.736 24 12 24s3.668-.013 4.95-.07c1.284-.057 2.3-.24 3.128-.54a5.464 5.464 0 002.276-1.454 5.464 5.464 0 001.454-1.454c.3-.828.483-1.844.54-3.128.057-1.286.07-1.69.07-3.95s-.013-2.664-.07-3.95c-.057-1.284-.24-2.3-.54-3.128a5.464 5.464 0 00-1.454-2.276A5.464 5.464 0 0020.05.61C19.222.31 18.206.127 16.922.07 15.636.013 15.232 0 12 0zM12 5.838a6.162 6.162 0 016.162 6.162A6.162 6.162 0 0112 18.162a6.162 6.162 0 01-6.162-6.162A6.162 6.162 0 0112 5.838zM12 4a8 8 0 100 16 8 8 0 000-16zm6.406-2.1a1.44 1.44 0 110 2.88 1.44 1.44 0 010-2.88z" />
-    </svg>
-  </a>
+      <stop offset="0" stopColor="#fd5" />
+      <stop offset=".328" stopColor="#ff543f" />
+      <stop offset=".348" stopColor="#fc5245" />
+      <stop offset=".504" stopColor="#e64771" />
+      <stop offset=".643" stopColor="#d53e91" />
+      <stop offset=".761" stopColor="#cc39a4" />
+      <stop offset=".841" stopColor="#c837ab" />
+    </radialGradient>
+    <path
+      fill="url(#yOrnnhliCrdS2gy~4tD8ma_Xy10Jcu1L2Su_gr1)"
+      d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20C42.014,38.383,38.417,41.986,34.017,41.99z"
+    />
+    <radialGradient
+      id="yOrnnhliCrdS2gy~4tD8mb_Xy10Jcu1L2Su_gr2"
+      cx="11.786"
+      cy="5.54"
+      r="29.813"
+      gradientTransform="matrix(1 0 0 .6663 0 1.849)"
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stopColor="#4168c9" />
+      <stop offset=".999" stopColor="#4168c9" stopOpacity="0" />
+    </radialGradient>
+    <path
+      fill="url(#yOrnnhliCrdS2gy~4tD8mb_Xy10Jcu1L2Su_gr2)"
+      d="M34.017,41.99l-20,0.019c-4.4,0.004-8.003-3.592-8.008-7.992l-0.019-20c-0.004-4.4,3.592-8.003,7.992-8.008l20-0.019c4.4-0.004,8.003,3.592,8.008,7.992l0.019,20C42.014,38.383,38.417,41.986,34.017,41.99z"
+    />
+    <path
+      fill="#fff"
+      d="M24,31c-3.859,0-7-3.14-7-7s3.141-7,7-7s7,3.14,7,7S27.859,31,24,31z M24,19c-2.757,0-5,2.243-5,5	s2.243,5,5,5s5-2.243,5-5S26.757,19,24,19z"
+    />
+    <circle cx="31.5" cy="16.5" r="1.5" fill="#fff" />
+    <path
+      fill="#fff"
+      d="M30,37H18c-3.859,0-7-3.14-7-7V18c0-3.86,3.141-7,7-7h12c3.859,0,7,3.14,7,7v12	C37,33.86,33.859,37,30,37z M18,13c-2.757,0-5,2.243-5,5v12c0,2.757,2.243,5,5,5h12c2.757,0,5-2.243,5-5V18c0-2.757-2.243-5-5-5H18z"
+    />
+  </svg>
+</a>
 
   <a
   href={createWhatsAppMessage()}
