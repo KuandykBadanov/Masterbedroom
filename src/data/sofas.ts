@@ -5,7 +5,7 @@ export const sofas: Product[] = [
     id: 31,
     name: "Диван Lola",
     description: "Элегантные формы и мягкие материалы идеально дополнят ваш интерьер",
-    price: 125000,
+    price: 630000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-lola-lilla-0c34a-tagasiside_reference.jpg?raw=true",
@@ -18,7 +18,7 @@ export const sofas: Product[] = [
     id: 32,
     name: "Диван Lupus Hall",
     description: "Cочетание лаконичности и функциональности. Модульный дизайн, удобство и универсальность ",
-    price: 198000,
+    price: 420000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-co-lupus-hall-08086_reference.jpg?raw=true",
@@ -31,7 +31,7 @@ export const sofas: Product[] = [
     id: 33,
     name: "Диван Lupus Long",
     description: "Сочетание лаконичности и функциональности. Модульный дизайн и удобство",
-    price: 87500,
+    price: 630000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-co-lupus-oranz-b5864-hind_reference.jpg?raw=true",
@@ -44,7 +44,7 @@ export const sofas: Product[] = [
     id: 34,
     name: "Диван Halley",
     description: "Космический комфорт и яркий дизайн",
-    price: 145000,
+    price: 480000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-co-halley-2-hall-19a0e-soodsam_reference.jpg?raw=true",
@@ -57,7 +57,7 @@ export const sofas: Product[] = [
     id: 35,
     name: "Диван Cassini",
     description: "воплощение утончённой роскоши. Элегантные пропорции и премиальные материалы",
-    price: 156000,
+    price: 576000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/diivan-windsor-co-cassini-kollane-fd2b3-hind_reference.jpg?raw=true",
@@ -70,7 +70,7 @@ export const sofas: Product[] = [
     id: 36,
     name: "Диван Miley Home",
     description: "Современная классика. Лёгкий дизайн и мягкость ",
-    price: 235000,
+    price: 624000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/sofa-micadoni-home-miley-miley-259x85x74-cm-60c8b-pigiau.jpg?raw=true",
@@ -83,7 +83,7 @@ export const sofas: Product[] = [
     id: 37,
     name: "Диван Miley бежевый",
     description: "Современная классика. Лёгкий дизайн и мягкость ",
-    price: 78900,
+    price: 748000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/Micadoni-MIC_RC_51_F1_MILEY6-BG_2400x1796.jpg?raw=true",
@@ -96,7 +96,7 @@ export const sofas: Product[] = [
     id: 38,
     name: "Диван Miley Белый",
     description: "Современная классика. Лёгкий дизайн и мягкость",
-    price: 189000,
+    price: 1029000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/Micadoni-MIC_U_51_F1_MILEY1-BG_1200x898.jpg?raw=true",
@@ -109,7 +109,7 @@ export const sofas: Product[] = [
     id: 39,
     name: "Диван Bobo",
     description: "Стильный минимализм идеальный выбор для современного интерьера",
-    price: 167500,
+    price: 936000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/INTERMEDE_2021-1.jpeg?raw=true",
