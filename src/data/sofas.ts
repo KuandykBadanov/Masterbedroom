@@ -118,5 +118,57 @@ export const sofas: Product[] = [
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
+  {
+    id: 40,
+    name: "Диван VogueSofa",
+    description: "Элегантная простота и уют для спокойных вечеров",
+    price: 864000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/divan-delavega-123-interior-4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/divan-delavega-123-interior-6.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/a123-delavega-divan-1.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 41,
+    name: "Диван Nest",
+    description: "Тепло и мягкость для семейного уюта",
+    price: 629000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/divan-delavega-HalleL-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/divan-delavega-HalleL-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/divan-delavega-halle-L-2.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 42,
+    name: "Диван Tempo",
+    description: "Энергичный и комфортный стиль для активной жизни",
+    price: 876000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/uglovoy-divan-f36-interior-3.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/uglovoy-divan-f36-interior-5.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/f36-2-1938_782.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 43,
+    name: "Диван Tempo",
+    description: "Энергичный и комфортный стиль для активной жизни",
+    price: 462000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/pryamoy-divan-A36-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/pryamoy-divan-A36-interior-4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/a36-1-1938_782.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
   
 ];
