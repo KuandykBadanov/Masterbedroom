@@ -20,7 +20,7 @@ export function Header() {
             {/* Center/Logo */}
             <div className="flex items-center gap-2">
               <Bed className="w-8 h-8 text-gray-800" />
-              <span className="text-2xl font-bold text-gray-800">Masterbedroom</span>
+              <span className="text-2xl font-merriweather font-black text-gray-800">Masterbedroom</span>
             </div>
 
             {/* Right Section */}
