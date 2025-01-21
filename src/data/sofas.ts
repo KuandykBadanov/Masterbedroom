@@ -170,5 +170,186 @@ export const sofas: Product[] = [
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
-  
+  {
+    id: 44,
+    name: "Диван Chord",
+    description: "Эстетика минимализма и премиальные материалы",
+    price: 629000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/a101-delavega-interior-new-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/a101-delavega-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/111-1938-782-sofa-A101-new-17.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 45,
+    name: "Диван Orion",
+    description: "Эстетика космоса и идеальный баланс формы и комфорта",
+    price: 864000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/1938x782-interior-F107-4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/1938x782-interior-F107-5.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/1938x782-interior-F107-1.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 56,
+    name: "Диван Eazy",
+    description: "Эффектный внешний вид и невероятный комфорт",
+    price: 936000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20123023.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20123235.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20123328.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 57,
+    name: "Диван Canape",
+    description: "Лёгкость и компактность для стильного уюта",
+    price: 576000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20124347.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20124432.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20124410.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 58,
+    name: "Диван Ruby",
+    description: "Яркий акцент с мягкими линиями и комфортом",
+    price: 360000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20124601.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20124633.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20124818.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 59,
+    name: "Диван Emy",
+    description: "Современная элегантность в минималистичном дизайне",
+    price: 528000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125111.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125151.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125132.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 60,
+    name: "Диван Montreal",
+    description: "Лаконичность и уют с ноткой городской динамики",
+    price: 705000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125541.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125442.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125424.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 61,
+    name: "Диван Seven",
+    description: "Большой семиместный диван для большой семьи",
+    price: 982000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20130003.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125727.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125820.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 62,
+    name: "Диван Ana",
+    description: "Утончённые формы для вашего идеального отдыха",
+    price: 604000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20130640.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20130708.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20130720.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 63,
+    name: "Диван Stella",
+    description: "Нежность и изысканность в каждой детали",
+    price: 756000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/k_l.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20133821.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134036.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 64,
+    name: "Диван Ray",
+    description: "Чистота линий и уют в современном стиле",
+    price: 720000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134455.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134439.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134524.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 65,
+    name: "Диван Dusk",
+    description: "Мягкость и спокойствие с вечерним настроением",
+    price: 588000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134904.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134920.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134948.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 66,
+    name: "Диван Lisa",
+    description: "Простота и комфорт для универсального интерьера",
+    price: 756000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135503.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135521.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135539.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 67,
+    name: "Диван Calm",
+    description: "Лаконичность и расслабляющая атмосфера",
+    price: 756000,
+    category: "sofas",
+    images: [
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135840.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135905.jpg?raw=true",
+      "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135853.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
 ];
