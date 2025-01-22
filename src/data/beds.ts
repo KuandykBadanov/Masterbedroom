@@ -3,79 +3,79 @@ import { Product } from '../types';
 export const beds: Product[] = [
   {
     id: 1,
-    name: "Кровать Luna Premium",
-    description: "Двуспальная кровать с мягким изголовьем и LED подсветкой",
-    price: 89900,
+    name: "Кровать Luva",
+    description: "Стильная кровать с акцентом на эргономику и современный дизайн",
+    price: 349000,
     category: "beds",
     images: [
-      "/images/divan1.jpg",
-      "/images/divan2.jpg",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%201%20Luva/66a39f1e3bc3322bebd5d8f5_6-p-800.jpeg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%201%20Luva/66a39f1e051d44dd28f9dc11_1-p-800.jpeg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%201%20Luva/66a39f1ecf3a4544e884302d_8-p-800.jpeg?raw=true",
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 2,
-    name: "Кровать Victoria Deluxe",
-    description: "Классическая кровать с каретной стяжкой и высоким изголовьем",
-    price: 105000,
+    name: "Кровать Vail Twin ",
+    description: "Создана для тех, кто ценит исключительный дизайн",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1618773928121-c32242e63f39",
-      "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
-      "https://images.unsplash.com/photo-1616627561950-9f746e330187"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%202%20Vail%20Twin/wqn28wicpcbct2lddqbbn1m05402q1b5.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%202%20Vail%20Twin/pfp69xifnj620cvo17cnch30tjg8e34o.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%202%20Vail%20Twin/tbsb5d3or7tq7e3s6b3ak2z40efsmrmg.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 3,
-    name: "Кровать Minimal Loft",
-    description: "Современная кровать в стиле лофт с металлическим каркасом",
-    price: 67500,
+    name: "Кровать Selene",
+    description: "Изящные изгибы и мягкие очертания делают кровать воплощением элегантности",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2",
-      "https://images.unsplash.com/photo-1617325247889-fa8e498d4cf6",
-      "https://images.unsplash.com/photo-1616627561950-9f746e330187"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%203%20%C2%ABSelene%C2%BB/x5w25t2gth7pnonr1rzkf4d9f9h3l263.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%203%20%C2%ABSelene%C2%BB/r0nhft5hrq494ozx809k52f7p3imj1gp.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%203%20%C2%ABSelene%C2%BB/ayv8blruq72aroxphzjd9p1ww4ifnugv.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 4,
-    name: "Кровать Nordic Dream",
-    description: "Скандинавский дизайн с натуральными материалами",
-    price: 78900,
+    name: "Кровать Vail",
+    description: "Непревзойденный стиль и безупречный дизайн",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%204%20Vail/ohmxueryqjqg5728sl3yedsjl4wb3ozo.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%204%20Vail/u41mp8c8zoz4br55ivhcmah87ut0yre0.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%204%20Vail/zz24fl17vwvqz1oj0spr5goikpfrb6ep.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 5,
-    name: "Кровать Royal Palace",
-    description: "Роскошная кровать с позолоченными элементами",
-    price: 245000,
+    name: "Кровать Soft Kids",
+    description: "Кровать для маленьких детей и для подростков",
+    price: 229000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1540518614846-7eded433c457",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%205%20Soft%20Kids/324bxgdipx9efwrz37z6yrta0502y8vf.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%205%20Soft%20Kids/8hw6w76jhv6ffz3wdmhjz9009tkxhixr.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%205%20Soft%20Kids/mhjqe2ihumfoyyklk77erd2xk40ldnge.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 6,
-    name: "Кровать Modern Line",
-    description: "Минималистичный дизайн с встроенными розетками",
-    price: 92500,
+    name: "Кровать Roma",
+    description: "Элегантность, которая превращает спальню в произведение искусства",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%206%20Roma/15527.1500.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%206%20Roma/14870.1500.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%206%20Roma/14871.1500.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
