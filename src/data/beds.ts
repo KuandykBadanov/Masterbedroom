@@ -81,14 +81,14 @@ export const beds: Product[] = [
   },
   {
     id: 7,
-    name: "Кровать Eco Wood",
-    description: "Экологичная кровать из массива дерева",
-    price: 83700,
+    name: "Кровать Bora Bora",
+    description: "Тропическая роскошь и комфорт. Исключительный дизайн и уют, будто вы на райском острове, каждую ночь",
+    price: 349000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%207%20Bora%20Bora/WhatsAppImg2023-05-31at14.17.06_4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%207%20Bora%20Bora/atmacha-home-and-living-bed-lily-bed-with-storage-39495472349400.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%207%20Bora%20Bora/clouds-karyola-orange-4702.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
