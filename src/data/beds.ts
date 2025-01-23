@@ -276,14 +276,14 @@ export const beds: Product[] = [
   },
   {
     id: 22,
-    name: "Кровать Eco Style",
-    description: "Экологичная кровать из бамбука",
-    price: 97500,
+    name: "Кровать Zelora",
+    description: "Тонкая кровать с утонченным силуэтом и минималистичным дизайном",
+    price: 349000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2022%20Zelora/k106-delavega-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2022%20Zelora/k106-delavega-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2022%20Zelora/k106-delavega-interior-4.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
