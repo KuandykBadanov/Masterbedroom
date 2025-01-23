@@ -159,118 +159,118 @@ export const beds: Product[] = [
   },
   {
     id: 13,
-    name: "Кровать Art Deco",
-    description: "Дизайнерская кровать в стиле арт-деко",
-    price: 167800,
+    name: "Кровать Dega",
+    description: "стильная и функциональная детская кровать",
+    price: 229000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2013%20Dega/1938x782-kd53-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2013%20Dega/1938x782-kd53-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2013%20Dega/1938x782-kd53-interior-3.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 14,
-    name: "Кровать Luxe Comfort",
-    description: "Роскошная кровать с регулируемым изголовьем",
-    price: 195000,
+    name: "Кровать Luna",
+    description: "Кровать с округлой спинкой, которая дарит ощущение уюта и спокойствия",
+    price: 219000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2014%20Luna/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20115611.png?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2014%20Luna/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20115658.png?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2014%20Luna/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20115720.png?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 15,
-    name: "Кровать Harmony",
-    description: "Гармоничный дизайн для спальни",
-    price: 88500,
+    name: "Кровать Vogue Bed",
+    description: "стильная элегантная и комфортная кровать",
+    price: 289000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2015%20VogueBed/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-16%20233516.png?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2015%20VogueBed/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-16%20233537.png?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2015%20VogueBed/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-16%20233352.png?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 16,
-    name: "Кровать Premium Sleep",
-    description: "Премиальная кровать с ортопедическим матрасом",
-    price: 156000,
+    name: "Кровать Imperial",
+    description: "величественная кровать для тех, кто ценит роскошь и комфорт",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2016%20Imperial/fd.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2016%20Imperial/k17-delavega-interior-4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2016%20Imperial/k17-delavega-interior-1.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 17,
-    name: "Кровать Elegance",
-    description: "Элегантная кровать с бархатной обивкой",
-    price: 134500,
+    name: "Кровать Mary",
+    description: "Современная кровать с лаконичным дизайном",
+    price: 289000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2017%20Mary/k24-delavega-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2017%20Mary/k24-delavega-interior-3.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2017%20Mary/k24-delavega-interior-4.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 18,
-    name: "Кровать Natural Rest",
-    description: "Кровать из экологичных материалов",
-    price: 92700,
+    name: "Кровать Cube Junior ",
+    description: "Современная детская кровать с оригинальной спинкой, украшенной объемными квадратиками",
+    price: 189000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2018%20Cube%20Junior/kd42-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2018%20Cube%20Junior/kd42-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2018%20Cube%20Junior/kd42-interior-5.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 19,
-    name: "Кровать Modern Classic",
-    description: "Современная классика для вашей спальни",
-    price: 147500,
+    name: "Кровать Evania",
+    description: "Кровать с драматичным дизайном и загадочной атмосферой",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2019%20Evania/K14-delavega-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2019%20Evania/K14-delavega-interior-5.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2019%20Evania/krovat-delavega-k14-4.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 20,
-    name: "Кровать Soft Dream",
-    description: "Мягкая кровать с глубокой стяжкой",
-    price: 168900,
+    name: "Кровать Edge",
+    description: "стильная двуспальная кровать с прямыми углами и современным дизайном",
+    price: 349000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2020%20Edge/k22-delavega-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2020%20Edge/k22-delavega-interior-4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2020%20Edge/k22-bed-delavega-5.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 21,
-    name: "Кровать Luxury Sleep",
-    description: "Роскошная кровать с кристаллами Swarovski",
-    price: 285000,
+    name: "Кровать Rose",
+    description: "Красота и романтика",
+    price: 229000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2021%20Rose/k2-delavega-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2021%20Rose/k2-delavega-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2021%20Rose/k2-delavega-interior-4.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
