@@ -289,79 +289,79 @@ export const beds: Product[] = [
   },
   {
     id: 23,
-    name: "Кровать Premium Comfort",
-    description: "Премиальная кровать с массажным блоком",
-    price: 235000,
+    name: "Кровать Kids Sofa",
+    description: "Компактная, практичная и удобная, идеально подходит для игр, сна и отдыха",
+    price: 229000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2023%20Kids%20Sofa/delavega-kdpKidsC-interior-2.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2023%20Kids%20Sofa/delavega-kdpKidsC-interior-3.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2023%20Kids%20Sofa/delavega-kdpKidsC-interior-4.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 24,
-    name: "Кровать City Style",
-    description: "Урбанистический дизайн для современной спальни",
-    price: 112500,
+    name: "Кровать Cube",
+    description: "современная кровать с лаконичным дизайном, сочетание функциональности и стиля",
+    price: 219000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2024%20Cube/lizhko-k10-delavega-interior-4.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2024%20Cube/lizhko-k10-delavega-interior-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2024%20Cube/lizhko-k10-delavega-interior-5.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 25,
-    name: "Кровать Royal Dreams",
-    description: "Королевская кровать с балдахином",
-    price: 345000,
+    name: "Кровать Tessana",
+    description: "кровать с красивой геометрией и мягкой обивкой, идеально для креативных интерьеров",
+    price: 249000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2025%20Tessana/1938x782-interior-k36-1.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2025%20Tessana/1938x782-interior-k36-3.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2025%20Tessana/1938x782-interior-k36-4.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 26,
-    name: "Кровать Minimal Art",
-    description: "Минималистичный дизайн для ценителей простоты",
-    price: 78500,
+    name: "Кровать Envy",
+    description: "просторная кровать с гладкими линиями, создана для максимального комфорта и стиля",
+    price: 349000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2026%20Envy/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20183157.png?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2026%20Envy/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20183225.png?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2026%20Envy/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20183324.png?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 27,
-    name: "Кровать Comfort Zone",
-    description: "Максимальный комфорт для здорового сна",
-    price: 145000,
+    name: "Кровать Nessa",
+    description: "кровать в теплых природных оттенках",
+    price: 349000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2027%20Nessa/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20190815.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2027%20Nessa/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20190847.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2027%20Nessa/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20190916.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 28,
-    name: "Кровать Elite Rest",
-    description: "Элитная кровать с системой охлаждения",
-    price: 198000,
+    name: "Кровать Dreamline",
+    description: "кровать для полного расслабления и сладких снов",
+    price: 349000,
     category: "beds",
     images: [
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af",
-      "https://images.unsplash.com/photo-1505693314120-0d443867891c"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2028%20Dreamline/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20191603.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2028%20Dreamline/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20191813.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2028%20Dreamline/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20191826.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
