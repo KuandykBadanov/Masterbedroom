@@ -510,6 +510,136 @@ export const beds: Product[] = [
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
+    id: 77,
+    name: "Кровать Plush",
+    description: "Кровать с мягкой текстурой, идеальная для расслабления",
+    price: 289000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2040%20Plush/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173055.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2040%20Plush/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173020.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2040%20Plush/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20172958.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 78,
+    name: "Кровать Château",
+    description: "Кровать, напоминающая об уюте и роскоши старинного замка",
+    price: 349000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2041%20Ch%C3%A2teau/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173510.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2041%20Ch%C3%A2teau/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173542.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2041%20Ch%C3%A2teau/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173434.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 79,
+    name: "Кровать Floria",
+    description: "Кровать создающая атмосферу лёгкости и свежести",
+    price: 349000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2042%20Floria/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173831.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2042%20Floria/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173741.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2042%20Floria/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173724.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 80,
+    name: "Кровать Amore",
+    description: "Кровать, созданная для тех, кто ценит уют и романтику",
+    price: 219000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2043%20Amore/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173935.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2043%20Amore/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174037.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2043%20Amore/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174056.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 81,
+    name: "Кровать Zerra",
+    description: "Минимализм и стиль в одном названии",
+    price: 229000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2044%20Zerra/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174306.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2044%20Zerra/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174327.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2044%20Zerra/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174353.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 82,
+    name: "Кровать Gaia",
+    description: "Кровать, названная в честь богини Земли",
+    price: 349000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2045%20Gaia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174952.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2045%20Gaia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174754.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2045%20Gaia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174829.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 83,
+    name: "Кровать Calara",
+    description: "Кровать, дарящая спокойствие",
+    price: 249000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2046%20Calara/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175225.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2046%20Calara/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175137.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2046%20Calara/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175151.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 84,
+    name: "Кровать Cosy Max",
+    description: "Кровать с мягкой обивкой и комфортной спинкой",
+    price: 289000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2047%20Cosy%20Max/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175411.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2047%20Cosy%20Max/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175514.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2047%20Cosy%20Max/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175439.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 85,
+    name: "Кровать Evia",
+    description: "Кровать с лаконичным силуэтом, идеально подходящая для скандинавского стиля",
+    price: 229000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2048%20Evia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20182157.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2048%20Evia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20182250.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2048%20Evia/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20182312.jpg?raw=true"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
+    id: 86,
+    name: "Кровать Velina",
+    description: "Мягкость и бархатистость в каждом штрихе",
+    price: 229000,
+    category: "beds",
+    images: [
+      "https://github.com/KuandykBadanov",
+      "https://github.com/KuandykBadanov",
+      "https://github.com/KuandykBadanov"
+    ],
+    whatsappLink: "https://wa.me/+1234567890"
+  },
+  {
     id: 30,
     name: "Кровать Prima",
     description: "Лаконичная кровать, подходящая для любого интерьера",
