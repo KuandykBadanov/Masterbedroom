@@ -633,35 +633,22 @@ export const beds: Product[] = [
     price: 229000,
     category: "beds",
     images: [
-      "https://github.com/KuandykBadanov",
-      "https://github.com/KuandykBadanov",
-      "https://github.com/KuandykBadanov"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2049%20Velina/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20182525.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2049%20Velina/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20182409.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2049%20Velina/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20182547.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
-    id: 30,
-    name: "Кровать Prima",
-    description: "Лаконичная кровать, подходящая для любого интерьера",
-    price: 219000,
+    id: 87,
+    name: "Кровать Rete",
+    description: "Элегантная французская кровать, воплощающая утончённый стиль и комфорт",
+    price: 329000,
     category: "beds",
     images: [
-      "https://github.com/KuandykBadanov",
-      "https://github.com/KuandykBadanov",
-      "https://github.com/KuandykBadanov"
-    ],
-    whatsappLink: "https://wa.me/+1234567890"
-  },
-  {
-    id: 30,
-    name: "Кровать Prima",
-    description: "Лаконичная кровать, подходящая для любого интерьера",
-    price: 219000,
-    category: "beds",
-    images: [
-      "https://github.com/KuandykBadanov",
-      "https://github.com/KuandykBadanov",
-      "https://github.com/KuandykBadanov"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2050%20Rete/f7b1b5fa3fc895fa31410c02dc6f27fa.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2050%20Rete/cea518a30ed14b907769116ed6b84eba.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2050%20Rete/40c0f46fb0bde7363bce9fe84bd3ada1.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
