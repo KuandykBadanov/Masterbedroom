@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         merriweather: ['Merriweather', 'serif'],
+        quicksand: ['Quicksand', 'sans-serif'],
       },
     },
   },
