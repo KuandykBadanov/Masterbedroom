@@ -49,7 +49,7 @@ export function Header() {
               alt="Masterbedroom Logo"
               className="w-16 h-16 object-contain"
             />
-            <span className="text-4xl font-[Merriweather] font-medium text-gray-700 text-center">
+            <span className="text-4xl font-merriweather font-medium text-gray-700 text-center">
               Masterbedroom
             </span>
           </div>
