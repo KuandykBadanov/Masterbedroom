@@ -46,13 +46,17 @@ export function Header() {
         <nav className="max-w-7xl mx-auto px-4 py-1">
           <div className="flex items-center justify-between">
             {/* Center/Logo */}
-            <div className="flex items-center gap-2">
+            <div className="flex items-center gap-4">
+  {/* Логотип */}
   <img
     src="./images/logo.jpg"
     alt="Masterbedroom Logo"
-    className="w-8 h-8 object-contain"
+    className="w-16 h-16 object-contain" // Увеличен размер логотипа
   />
-  <span className="text-xl font-[Gloock] font-black text-gray-800">Masterbedroom</span>
+  {/* Текст */}
+  <span className="text-4xl font-[Merriweather] font-medium text-gray-700">
+    Masterbedroom
+  </span>
 </div>
 
             {/* Right Section */}
