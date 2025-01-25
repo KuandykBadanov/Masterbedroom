@@ -47,9 +47,13 @@ export function Header() {
           <div className="flex items-center justify-between">
             {/* Center/Logo */}
             <div className="flex items-center gap-2">
-              <Bed className="w-8 h-8 text-gray-800" />
-              <span className="text-xl font-[Gloock] font-black text-gray-800">Masterbedroom</span>
-            </div>
+  <img
+    src="./images/logo.jpg"
+    alt="Masterbedroom Logo"
+    className="w-8 h-8 object-contain"
+  />
+  <span className="text-xl font-[Gloock] font-black text-gray-800">Masterbedroom</span>
+</div>
 
             {/* Right Section */}
             <div className="flex items-center gap-4">
