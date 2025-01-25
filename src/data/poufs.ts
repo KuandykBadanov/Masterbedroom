@@ -3,132 +3,93 @@ import { Product } from '../types';
 export const poufs: Product[] = [
   {
     id: 46,
-    name: "Пуф Velvet Luxury",
-    description: "Бархатный пуф с золотым основанием",
-    price: 15900,
+    name: "Пуф 1",
+    description: "Бархатный пуф",
+    price: 49000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%201/6fd63c0fd4e34f07ab0f7f6d.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%201/945f092caf1f4e208165248e.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%201/c877613bd9fc49e2868f4666.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 47,
-    name: "Пуф Scandinavian",
-    description: "Минималистичный пуф из натуральной шерсти",
-    price: 12500,
+    name: "Пуф 2",
+    description: "Минималистичный пуф из натуральных материалов",
+    price: 19000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%202/abcd1f6f436a454b9208d76a.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%202/ddc5ddc6a0c749689b517538.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%202/abcd1f6f436a454b9208d76a.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 48,
-    name: "Пуф Storage Plus",
-    description: "Пуф с отсеком для хранения",
-    price: 18900,
+    name: "Пуф 3",
+    description: "Пуф серый",
+    price: 49000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%203/194b2dd55ea94c2484003ecd.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%203/a4233583b2b14c6f869d8701.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%203/194b2dd55ea94c2484003ecd.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 49,
-    name: "Пуф Leather Classic",
-    description: "Классический кожаный пуф",
-    price: 21500,
+    name: "Пуф 4",
+    description: "Классический пуф",
+    price: 39000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%BF%D1%83%D1%84%204/1552d443f7379d7f55dfc622f0e4d34d.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%BF%D1%83%D1%84%204/bb9ca4849f71f4cfc714644d365621e0.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%BF%D1%83%D1%84%204/1552d443f7379d7f55dfc622f0e4d34d.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 50,
-    name: "Пуф Modern Cube",
-    description: "Современный кубический пуф",
-    price: 14500,
+    name: "Пуф 5",
+    description: "Классический пуф",
+    price: 39000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%205/206991036678124f286928c8029aca62.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%205/e88815da43a4a857ebab9990ae821ece.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%205/206991036678124f286928c8029aca62.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 51,
-    name: "Пуф Eco Friendly",
-    description: "Экологичный пуф из переработанных материалов",
-    price: 16700,
+    name: "Пуф 6",
+    description: "Экологичный пуф",
+    price: 39000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%206/a5ec546aa062889326a6665d08d1c8f5%20(1).jpg?raw=true",
+      
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
   {
     id: 52,
-    name: "Пуф Royal Style",
-    description: "Роскошный пуф с декоративной отделкой",
-    price: 23900,
+    name: "Пуф 7",
+    description: "Роскошный пуф",
+    price: 39000,
     category: "poufs",
     images: [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%207/259107637df0b87aee0397d2cb11b141.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%207/cf3581095c0e39cd8caa76a24131f6d9.jpg?raw=true",
+      "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/poufs/%D0%9F%D1%83%D1%84%207/259107637df0b87aee0397d2cb11b141.jpg?raw=true"
     ],
     whatsappLink: "https://wa.me/+1234567890"
   },
-  {
-    id: 53,
-    name: "Пуф Kids Room",
-    description: "Яркий и безопасный пуф для детской",
-    price: 11900,
-    category: "poufs",
-    images: [
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
-    ],
-    whatsappLink: "https://wa.me/+1234567890"
-  },
-  {
-    id: 54,
-    name: "Пуф Loft Design",
-    description: "Индустриальный пуф в стиле лофт",
-    price: 19500,
-    category: "poufs",
-    images: [
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7"
-    ],
-    whatsappLink: "https://wa.me/+1234567890"
-  },
-  {
-    id: 55,
-    name: "Пуф Comfort Plus",
-    description: "Мягкий пуф с эффектом памяти",
-    price: 17800,
-    category: "poufs",
-    images: [
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
-      "https://images.unsplash.com/photo-1584346133934-a3afd2a33c4c",
-      "https://images.unsplash.com/photo-1586023492739-5f624061f1b1"
-    ],
-    whatsappLink: "https://wa.me/+1234567890"
-  }
+  
 ];
