@@ -20,9 +20,13 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3">
   <Mail className="w-6 h-6 text-blue-400" />
-  <a href="mailto:Toogarkon@gmail.com" className="hover:underline">
-    Toogarkon@gmail.com
-  </a>
+  <a 
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=Toogarkon@gmail.com" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  Toogarkon@gmail.com
+</a>
 </div>
               <div className="flex items-start gap-3">
                 <Clock className="w-6 h-6 text-blue-400 flex-shrink-0 mt-1" />
