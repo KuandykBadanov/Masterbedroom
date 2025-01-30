@@ -19,13 +19,15 @@ export function Footer() {
                 <a href="tel:+77474490627">+7 (747) 449-06-27</a>
               </div>
               <div className="flex items-center gap-3">
-                <Mail className="w-6 h-6 text-blue-400" />
-                <a href="mailto:info@masterbedroom.kz">info@masterbedroom.kz</a>
-              </div>
+  <Mail className="w-6 h-6 text-blue-400" />
+  <a href="mailto:Toogarkon@gmail.com" className="hover:underline">
+    Toogarkon@gmail.com
+  </a>
+</div>
               <div className="flex items-start gap-3">
                 <Clock className="w-6 h-6 text-blue-400 flex-shrink-0 mt-1" />
                 <div>
-                  <p>Пн-Пт: 10:00 - 20:00</p>
+                  <p>Пн-Пт: 10:00 - 19:00</p>
                   <p>Сб-Вс: 10:00 - 18:00</p>
                 </div>
               </div>

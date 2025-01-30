@@ -1,11 +1,10 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './',
-  publicDir: 'public', // Указывает Vite, где искать статические файлы
+  base: './', // <-- Убедитесь, что base задан как './'
+  publicDir: 'public',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },

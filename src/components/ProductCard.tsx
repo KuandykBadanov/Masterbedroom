@@ -79,7 +79,7 @@ export function ProductCard({ product }: ProductCardProps) {
   </a>
 
   <a
-  href="https://instagram.com/masterbedroom_kz"
+  href="https://instagram.com/masterbedroom.kz"
   target="_blank"
   rel="noopener noreferrer"
   className="w-8 h-8 rounded-full flex items-center justify-center hover:opacity-80 transition-opacity"
