@@ -29,7 +29,7 @@ export function Header() {
             >
               {/* Иконка WhatsApp из react-icons */}
               <FaWhatsapp className="text-green-500 text-2xl" />
-              <span>+7 (747) 449-06-27</span>
+              <span>+7 (777) 160-46-03</span>
             </a>
           </div>
         </nav>
