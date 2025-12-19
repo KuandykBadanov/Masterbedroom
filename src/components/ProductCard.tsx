@@ -21,7 +21,7 @@ export function ProductCard({ product }: ProductCardProps) {
 
   const createWhatsAppMessage = () => {
     const message = `Здравствуйте! Интересует товар: ${product.name}\nЦена: ${product.price.toLocaleString('kk-KZ')} ₸\n${product.description}\nФото товара: ${product.images[0]}`;
-    return `https://wa.me/+77474490627?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/77771604603?text=${encodeURIComponent(message)}`;
   };  
 
   return (
@@ -64,7 +64,7 @@ export function ProductCard({ product }: ProductCardProps) {
 </span>
         <div className="flex gap-2">
         <a
-    href="tel:+77474490627"
+    href="tel:+77771604603"
     className="w-8 h-8 rounded-full flex items-center justify-center hover:opacity-80 transition-opacity"
     title="Позвонить"
   >

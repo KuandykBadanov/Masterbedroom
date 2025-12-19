@@ -239,7 +239,7 @@ export const sofas: Product[] = [
     id: 59,
     name: "Диван Emy",
     description: "Современная элегантность в минималистичном дизайне",
-    price: 528000,
+    price: 379000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20125111.jpg?raw=true",
@@ -278,7 +278,7 @@ export const sofas: Product[] = [
     id: 62,
     name: "Диван Ana",
     description: "Утончённые формы для вашего идеального отдыха",
-    price: 604000,
+    price: 529000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20130640.jpg?raw=true",
@@ -291,7 +291,7 @@ export const sofas: Product[] = [
     id: 63,
     name: "Диван Stella",
     description: "Нежность и изысканность в каждой детали",
-    price: 756000,
+    price: 679000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/k_l.jpg?raw=true",
@@ -304,7 +304,7 @@ export const sofas: Product[] = [
     id: 64,
     name: "Диван Ray",
     description: "Чистота линий и уют в современном стиле",
-    price: 720000,
+    price: 569000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134455.jpg?raw=true",
@@ -317,7 +317,7 @@ export const sofas: Product[] = [
     id: 65,
     name: "Диван Dusk",
     description: "Мягкость и спокойствие с вечерним настроением",
-    price: 588000,
+    price: 459000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20134904.jpg?raw=true",
@@ -343,7 +343,7 @@ export const sofas: Product[] = [
     id: 67,
     name: "Диван Calm",
     description: "Лаконичность и расслабляющая атмосфера",
-    price: 756000,
+    price: 649000,
     category: "sofas",
     images: [
       "https://github.com/KuandykBadanov/images/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20135840.jpg?raw=true",

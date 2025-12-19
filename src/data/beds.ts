@@ -18,7 +18,7 @@ export const beds: Product[] = [
     id: 2,
     name: "Кровать Vail Twin ",
     description: "Создана для тех, кто ценит исключительный дизайн",
-    price: 249000,
+    price: 419000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%202%20Vail%20Twin/wqn28wicpcbct2lddqbbn1m05402q1b5.jpg?raw=true",
@@ -31,7 +31,7 @@ export const beds: Product[] = [
     id: 3,
     name: "Кровать Selene",
     description: "Изящные изгибы и мягкие очертания делают кровать воплощением элегантности",
-    price: 249000,
+    price: 309000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%203%20%C2%ABSelene%C2%BB/x5w25t2gth7pnonr1rzkf4d9f9h3l263.jpg?raw=true",
@@ -44,7 +44,7 @@ export const beds: Product[] = [
     id: 4,
     name: "Кровать Vail",
     description: "Непревзойденный стиль и безупречный дизайн",
-    price: 249000,
+    price: 289000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%204%20Vail/ohmxueryqjqg5728sl3yedsjl4wb3ozo.jpg?raw=true",
@@ -57,7 +57,7 @@ export const beds: Product[] = [
     id: 5,
     name: "Кровать Soft Kids",
     description: "Кровать для маленьких детей и для подростков",
-    price: 229000,
+    price: 289000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%205%20Soft%20Kids/324bxgdipx9efwrz37z6yrta0502y8vf.jpg?raw=true",
@@ -70,7 +70,7 @@ export const beds: Product[] = [
     id: 6,
     name: "Кровать Roma",
     description: "Элегантность, которая превращает спальню в произведение искусства",
-    price: 249000,
+    price: 269000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%206%20Roma/15527.1500.jpg?raw=true",
@@ -96,7 +96,7 @@ export const beds: Product[] = [
     id: 8,
     name: "Кровать Bali Dream",
     description: "Балийская мечта Вдохновлено островом богов",
-    price: 329000,
+    price: 409000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%208%20BaliDream/k530-delavega-interior-1.jpg?raw=true",
@@ -109,7 +109,7 @@ export const beds: Product[] = [
     id: 9,
     name: "Кровать Willo",
     description: "Французский шик. Абсолютный дизайн, мягкие линии и теплый комфорт",
-    price: 429000,
+    price: 539000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%209%20Willo/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-16%20234350.png?raw=true",
@@ -122,7 +122,7 @@ export const beds: Product[] = [
     id: 10,
     name: "Кровать Tata",
     description: "Смелый акцент в интерьере! Стиль и роскошь",
-    price: 249000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2010%20Tata/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20001959.png?raw=true",
@@ -135,7 +135,7 @@ export const beds: Product[] = [
     id: 11,
     name: "Кровать Zira",
     description: "Современность и утончённость для каждого дня",
-    price: 249000,
+    price: 289000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2011%20Zira/delavega-bed-dp-interior-1.jpg?raw=true",
@@ -148,7 +148,7 @@ export const beds: Product[] = [
     id: 12,
     name: "Кровать Arno",
     description: "Удобная и стильная двуспальная кровать с лаконичным дизайном, подходящая для любого интерьера",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2012%20Arno/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20113947.png?raw=true",
@@ -161,7 +161,7 @@ export const beds: Product[] = [
     id: 13,
     name: "Кровать Dega",
     description: "стильная и функциональная детская кровать",
-    price: 229000,
+    price: 289000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2013%20Dega/1938x782-kd53-interior-1.jpg?raw=true",
@@ -174,7 +174,7 @@ export const beds: Product[] = [
     id: 14,
     name: "Кровать Luna",
     description: "Кровать с округлой спинкой, которая дарит ощущение уюта и спокойствия",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2014%20Luna/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20115611.png?raw=true",
@@ -187,7 +187,7 @@ export const beds: Product[] = [
     id: 15,
     name: "Кровать Vogue Bed",
     description: "стильная элегантная и комфортная кровать",
-    price: 289000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2015%20VogueBed/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-16%20233516.png?raw=true",
@@ -200,7 +200,7 @@ export const beds: Product[] = [
     id: 16,
     name: "Кровать Imperial",
     description: "величественная кровать для тех, кто ценит роскошь и комфорт",
-    price: 249000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2016%20Imperial/fd.jpg?raw=true",
@@ -226,7 +226,7 @@ export const beds: Product[] = [
     id: 18,
     name: "Кровать Cube Junior ",
     description: "Современная детская кровать с оригинальной спинкой, украшенной объемными квадратиками",
-    price: 189000,
+    price: 269000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2018%20Cube%20Junior/kd42-interior-1.jpg?raw=true",
@@ -239,7 +239,7 @@ export const beds: Product[] = [
     id: 19,
     name: "Кровать Evania",
     description: "Кровать с драматичным дизайном и загадочной атмосферой",
-    price: 249000,
+    price: 319000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2019%20Evania/K14-delavega-interior-1.jpg?raw=true",
@@ -265,7 +265,7 @@ export const beds: Product[] = [
     id: 21,
     name: "Кровать Rose",
     description: "Красота и романтика",
-    price: 229000,
+    price: 249000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2021%20Rose/k2-delavega-interior-1.jpg?raw=true",
@@ -278,7 +278,7 @@ export const beds: Product[] = [
     id: 22,
     name: "Кровать Zelora",
     description: "Тонкая кровать с утонченным силуэтом и минималистичным дизайном",
-    price: 349000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2022%20Zelora/k106-delavega-interior-1.jpg?raw=true",
@@ -291,7 +291,7 @@ export const beds: Product[] = [
     id: 23,
     name: "Кровать Kids Sofa",
     description: "Компактная, практичная и удобная, идеально подходит для игр, сна и отдыха",
-    price: 229000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2023%20Kids%20Sofa/delavega-kdpKidsC-interior-2.jpg?raw=true",
@@ -304,7 +304,7 @@ export const beds: Product[] = [
     id: 24,
     name: "Кровать Cube",
     description: "современная кровать с лаконичным дизайном, сочетание функциональности и стиля",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2024%20Cube/lizhko-k10-delavega-interior-4.jpg?raw=true",
@@ -317,7 +317,7 @@ export const beds: Product[] = [
     id: 25,
     name: "Кровать Tessana",
     description: "кровать с красивой геометрией и мягкой обивкой, идеально для креативных интерьеров",
-    price: 249000,
+    price: 309000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2025%20Tessana/1938x782-interior-k36-1.jpg?raw=true",
@@ -330,7 +330,7 @@ export const beds: Product[] = [
     id: 26,
     name: "Кровать Envy",
     description: "просторная кровать с гладкими линиями, создана для максимального комфорта и стиля",
-    price: 349000,
+    price: 389000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2026%20Envy/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-17%20183157.png?raw=true",
@@ -356,7 +356,7 @@ export const beds: Product[] = [
     id: 28,
     name: "Кровать Dreamline",
     description: "кровать для полного расслабления и сладких снов",
-    price: 349000,
+    price: 409000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2028%20Dreamline/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20191603.jpg?raw=true",
@@ -382,7 +382,7 @@ export const beds: Product[] = [
     id: 30,
     name: "Кровать Prima",
     description: "Лаконичная кровать, подходящая для любого интерьера",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2030%20Prima/kaepr5432_0.jpg?raw=true",
@@ -395,7 +395,7 @@ export const beds: Product[] = [
     id: 68,
     name: "Кровать Amber",
     description: "кровать с теплым дизайном для уютной спальни",
-    price: 349000,
+    price: 409000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2031%20Amber/_yellow_022_0.jpg?raw=true",
@@ -447,7 +447,7 @@ export const beds: Product[] = [
     id: 72,
     name: "Кровать Cosy",
     description: "Кровать с мягкой обивкой и комфортной спинкой",
-    price: 289000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2035%20Cosy/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20170639.jpg?raw=true",
@@ -460,7 +460,7 @@ export const beds: Product[] = [
     id: 73,
     name: "Кровать Nova",
     description: "Кровать с текстильной обивкой и плавными формами, вдохновлённая природной гармонией",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2036%20Nova/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20225033.png?raw=true",
@@ -473,7 +473,7 @@ export const beds: Product[] = [
     id: 74,
     name: "Кровать EcoNest",
     description: "Кровать, в которой вы почувствуете себя в гармонии с природой",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2037%20EcoNest/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20171725.jpg?raw=true",
@@ -500,7 +500,7 @@ export const beds: Product[] = [
     id: 76,
     name: "Кровать Melora",
     description: "Кровать с высокими мягкими спинками, дарящая ощущение роскоши и спокойствия",
-    price: 349000,
+    price: 409000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2039%20Melora/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20172707.jpg?raw=true",
@@ -513,7 +513,7 @@ export const beds: Product[] = [
     id: 77,
     name: "Кровать Plush",
     description: "Кровать с мягкой текстурой, идеальная для расслабления",
-    price: 289000,
+    price: 309000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2040%20Plush/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173055.jpg?raw=true",
@@ -552,7 +552,7 @@ export const beds: Product[] = [
     id: 80,
     name: "Кровать Amore",
     description: "Кровать, созданная для тех, кто ценит уют и романтику",
-    price: 219000,
+    price: 239000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2043%20Amore/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20173935.jpg?raw=true",
@@ -565,7 +565,7 @@ export const beds: Product[] = [
     id: 81,
     name: "Кровать Zerra",
     description: "Минимализм и стиль в одном названии",
-    price: 229000,
+    price: 249000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2044%20Zerra/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20174306.jpg?raw=true",
@@ -591,7 +591,7 @@ export const beds: Product[] = [
     id: 83,
     name: "Кровать Calara",
     description: "Кровать, дарящая спокойствие",
-    price: 249000,
+    price: 299000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2046%20Calara/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175225.jpg?raw=true",
@@ -604,7 +604,7 @@ export const beds: Product[] = [
     id: 84,
     name: "Кровать Cosy Max",
     description: "Кровать с мягкой обивкой и комфортной спинкой",
-    price: 289000,
+    price: 329000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2047%20Cosy%20Max/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-01-19%20175411.jpg?raw=true",
@@ -643,7 +643,7 @@ export const beds: Product[] = [
     id: 87,
     name: "Кровать Rete",
     description: "Элегантная французская кровать, воплощающая утончённый стиль и комфорт",
-    price: 329000,
+    price: 389000,
     category: "beds",
     images: [
       "https://github.com/KuandykBadanov/beds/blob/main/%D0%9A%D0%A0%D0%9E%D0%92%D0%90%D0%A2%D0%98/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C%2050%20Rete/f7b1b5fa3fc895fa31410c02dc6f27fa.jpg?raw=true",

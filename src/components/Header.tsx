@@ -22,7 +22,7 @@ export function Header() {
           {/* Контактная информация */}
           <div className="flex items-center gap-2 mt-4">
             <a
-              href="https://wa.me/77474490627"
+              href="https://wa.me/77771604603"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-800 flex items-center gap-2 hover:bg-black/5 rounded-lg px-3 py-1 text-sm sm:text-base"
